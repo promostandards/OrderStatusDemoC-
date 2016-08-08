@@ -1,0 +1,6 @@
+C:\promostandards\orderstatus\c#\PromostandardsOrderStatus\PromostandardsOrderStatus\bin\Debug\PromostandardsOrderStatus.exe.config
+C:\promostandards\orderstatus\c#\PromostandardsOrderStatus\PromostandardsOrderStatus\bin\Debug\PromostandardsOrderStatus.exe
+C:\promostandards\orderstatus\c#\PromostandardsOrderStatus\PromostandardsOrderStatus\bin\Debug\PromostandardsOrderStatus.pdb
+C:\promostandards\orderstatus\c#\PromostandardsOrderStatus\PromostandardsOrderStatus\obj\Debug\PromostandardsOrderStatus.csprojResolveAssemblyReference.cache
+C:\promostandards\orderstatus\c#\PromostandardsOrderStatus\PromostandardsOrderStatus\obj\Debug\PromostandardsOrderStatus.exe
+C:\promostandards\orderstatus\c#\PromostandardsOrderStatus\PromostandardsOrderStatus\obj\Debug\PromostandardsOrderStatus.pdb

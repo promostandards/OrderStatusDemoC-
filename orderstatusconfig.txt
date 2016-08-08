@@ -1,0 +1,8 @@
+wsVersion=1.0.0
+id=xxxxx
+credentials=xxxxxxx
+queryType=4
+referenceNumber=
+statusDate=2016-08-03
+outputDirTypes=C:\promostandards\orderstatus\c#\orderStatusType.xml
+outputDirDetails=C:\promostandards\orderstatus\c#\orderStatusDetails.xml
